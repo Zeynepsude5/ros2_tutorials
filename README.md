@@ -1,3 +1,3 @@
 # ros2_tutorials
 
-* [Gazebo Installation](Gazebo_installaion)
+* [Gazebo Installation](Gazebo_installation)
