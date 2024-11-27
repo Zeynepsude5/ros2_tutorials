@@ -17,3 +17,7 @@ Build with Grandle:
  ./gradlew assemble
 ```
 
+Add path to ./bashrc:
+```
+export PATH=$PATH:/home/mustafa/Micro-XRCE-DDS-Gen/scripts
+```
