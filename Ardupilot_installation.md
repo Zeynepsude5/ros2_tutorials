@@ -17,3 +17,13 @@ Install prerequisites:
 cd ardupilot
 Tools/environment_install/install-prereqs-ubuntu.sh -y
 ```
+
+
+## Ardupilot Gazebo packages
+
+Clone ardupilot_gz packace:
+```
+cd /colcon_ws
+vcs import --input https://raw.githubusercontent.com/ArduPilot/ardupilot_gz/main/ros2_gz.repos --recursive src
+```
+
