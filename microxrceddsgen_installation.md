@@ -19,5 +19,5 @@ Build with Grandle:
 
 Add path to ./bashrc:
 ```
-export PATH=$PATH:/home/mustafa/Micro-XRCE-DDS-Gen/scripts
+export PATH=$PATH:~/Micro-XRCE-DDS-Gen/scripts
 ```
