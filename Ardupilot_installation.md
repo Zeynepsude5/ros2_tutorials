@@ -27,3 +27,13 @@ cd /colcon_ws
 vcs import --input https://raw.githubusercontent.com/ArduPilot/ardupilot_gz/main/ros2_gz.repos --recursive src
 ```
 
+```
+colcon build
+```
+
+If fails try:
+```
+sudo apt update
+sudo apt install libunwind-dev
+sudo apt install -y libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
+```
