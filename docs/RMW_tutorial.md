@@ -19,7 +19,7 @@ Aşağıdaki komutla hangi RMW kulanılacağı özelleştirilebilir.
 ```
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 ```
-Bu komutu .bashrc'ye yazarak default olan FAST-DDS'in kullanılması sağlanmalı:
+Bu komutu .bashrc'ye yazarak default olan FAST-DDS'in kullanılması sağlanmalı (sisteme yeni RMW'ler eklediğimiz durumda hata almamak için):
 ```
 echo "export RMW_IMPLEMENTATION=rmw_fastrtps_cpp" >> .bashrc
 source ~/.bashrc
