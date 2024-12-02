@@ -4,7 +4,7 @@
 
 * [ROS2 humble Installation](ros2_humble_installation.md)
 
-* [Gazebo Installation](Gazebo_installation.md)
+* [Gazebo Installation](gazebo_garden.md)
 
 * [Ardupilot Installation](Ardupilot_installation.md)
 
