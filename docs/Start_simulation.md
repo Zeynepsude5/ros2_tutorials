@@ -1,4 +1,4 @@
-## Starting Simulation 
+## Starting the Simulation 
 
 By default, this launch file starts ArduPilot SITL, Gazebo, and RViz with a single command.
 ```
