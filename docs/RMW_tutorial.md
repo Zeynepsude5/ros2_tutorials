@@ -1,7 +1,7 @@
 ## ROS Middlewares
 
 Genel bilgi sahibi olunması açısından aşağıdaki linkler okunabilir.
-ROS2 haberleşme için kullandığı DDS katmanı için farklı sağlayıcıları destekler.
+ROS2 DDS katmanı için farklı sağlayıcıları destekler.
 Bu RMW'lerden birkaçı aynı sistemde yüklü olabilir. 
 
 
