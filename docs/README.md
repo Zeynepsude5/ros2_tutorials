@@ -9,3 +9,5 @@
 * [Micro-XRCE-DDS-Gen Installation](microxrceddsgen_installation.md)
 
 * [ROS2 Middleware](RMW_tutorial.md)
+
+* [Starting the Simulation](Start_simulation.md)
