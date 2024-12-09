@@ -14,4 +14,4 @@
 
 * [Starting the Simulation](Start_simulation.md)
 
-* [Image Transfer](Goruntu-aktarimi.md)
+* [Image Transfer](goruntu-aktarimi.md)
