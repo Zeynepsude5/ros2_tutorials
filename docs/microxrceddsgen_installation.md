@@ -14,7 +14,7 @@ git submodule update
 
 Build with Grandle:
 ```
- ./gradlew assemble
+./gradlew assemble
 ```
 
 Add path to ./bashrc:
