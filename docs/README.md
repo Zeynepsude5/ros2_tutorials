@@ -6,9 +6,9 @@
 
 * [Gazebo Installation](gazebo_garden.md)
 
-* [Ardupilot Installation](Ardupilot_installation.md)
-
 * [Micro-XRCE-DDS-Gen Installation](microxrceddsgen_installation.md)
+
+* [Ardupilot Installation](Ardupilot_installation.md)
 
 * [ROS2 Middleware](RMW_tutorial.md)
 
