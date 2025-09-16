@@ -1,4 +1,4 @@
-# ros2_tutorials
+# ROS2 Tutorials
 
 ROS2 humble, gazebo sim ve ArduPilot ortamlarını oluşturup similasyon başlatma ve görüntü aktarımı gibi temel işlemlerin nasıl yapılacağını göstermek amacıyla oluşturulmuş repository.
 
